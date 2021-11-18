@@ -43,7 +43,7 @@ reset:
   lda #0         
   sta PORTA
 
-  lda #"p"
+  lda #"h"
   sta PORTB
   lda #RS         
   sta PORTA
@@ -61,7 +61,7 @@ reset:
   lda #RS         
   sta PORTA
 
-  lda #"e"
+  lda #"l"
   sta PORTB
   lda #RS         
   sta PORTA
@@ -70,7 +70,7 @@ reset:
   lda #RS         
   sta PORTA
 
-  lda #"p"
+  lda #"l"
   sta PORTB
   lda #RS         
   sta PORTA
@@ -79,7 +79,7 @@ reset:
   lda #RS   
   sta PORTA
 
-  lda #"e"
+  lda #" "
   sta PORTB
   lda #RS         
   sta PORTA
@@ -88,7 +88,7 @@ reset:
   lda #RS         
   sta PORTA
 
-  lda #"e"
+  lda #"c"
   sta PORTB
   lda #RS         
   sta PORTA
@@ -97,7 +97,7 @@ reset:
   lda #RS         
   sta PORTA
 
-  lda #"p"
+  lda #"l"
   sta PORTB
   lda #RS       
   sta PORTA
@@ -106,7 +106,7 @@ reset:
   lda #RS         
   sta PORTA
 
-  lda #"o"
+  lda #"a"
   sta PORTB
   lda #RS       
   sta PORTA
@@ -115,7 +115,7 @@ reset:
   lda #RS         
   sta PORTA
 
-  lda #"o"
+  lda #"s"
   sta PORTB
   lda #RS       
   sta PORTA
@@ -124,7 +124,7 @@ reset:
   lda #RS         
   sta PORTA
 
-  lda #"p"
+  lda #"s"
   sta PORTB
   lda #RS         
   sta PORTA
@@ -133,7 +133,7 @@ reset:
   lda #RS         
   sta PORTA
 
-  lda #"o"
+  lda #"!"
   sta PORTB
   lda #RS       
   sta PORTA
@@ -142,7 +142,7 @@ reset:
   lda #RS         
   sta PORTA
 
-  lda #"o"
+  lda #"!"
   sta PORTB
   lda #RS       
   sta PORTA
